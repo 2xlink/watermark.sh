@@ -1,6 +1,8 @@
 # watermark.sh
 Watermark Your Important Documents
 
-![](https://user-images.githubusercontent.com/8763936/103484484-614eaa80-4def-11eb-8f0d-e311de5afbc3.jpeg)
+![a](https://github.com/2xlink/watermark.sh/assets/8763936/181b24ee-fa24-498e-9eee-c36bccb161f7)
+
+Some randomness is added to make removing harder.
 
 Usage: `watermark.sh IMAGE_FILE WATERMARK_TEXT`
